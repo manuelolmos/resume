@@ -1,7 +1,7 @@
 # Manuel Olmos Gil Resume
 
 ## Dependencies
-- cabal
+- pandoc
 - npm
 - pdflatex
 

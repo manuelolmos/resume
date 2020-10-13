@@ -21,7 +21,6 @@ GITHUB_USER = manuelolmos
 default: compile
 
 deps:
-	cabal install pandoc
 	npm install
 
 clean:
