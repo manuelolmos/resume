@@ -36,7 +36,11 @@ Erlang & iOS Developer 2014 - August 2014 - August 2015
 
 * Development and maintenance of backends application coded in Ruby and Erlang
 
+* Developed Weather app for the National Metereological Service from Buenos Aires.
+
 * Developed iOS app to submit match predictions on the football World Cup 2014
+
+
 
 ### Plusnewmedia
 iOS Developer 2014 - August 2015
