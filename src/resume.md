@@ -11,8 +11,11 @@ I'm Manuel Olmos Gil, Buenos Aires based dev. My speciality is iOS Development a
 
 ## Experience
 
+### Venmo - Paypal
+iOS Developer November 2020 - Present
+
 ### Publishers Clearing House
-iOS Developer July 2016 - Present
+iOS Developer July 2016 - November 2020
 
 * PCHApp - Built from scratch iOS Swift app based on mini web games and native slot machine game. Over 60k DAU for almost 3 years. Users were able to win tokens, submit entries and win big prizes. Developed user level VIP/VIP elite experience, create native animations (with UIKit, CoreAnimation, Lottie).
 
