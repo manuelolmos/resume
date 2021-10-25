@@ -1,5 +1,5 @@
 # Manuel Olmos Gil
-I'm Manuel Olmos Gil, Buenos Aires based dev. My speciality is iOS Development and i've also have backend background.
+I'm Manuel Olmos Gil, Buenos Aires based dev. My speciality is iOS Development and I've also have backend background.
 
 * iOS Developer
 * Backend Developer
@@ -7,7 +7,7 @@ I'm Manuel Olmos Gil, Buenos Aires based dev. My speciality is iOS Development a
 ## Contact
 * Mobile: +54 (911) 6007-8332
 * Email: [manuolmos88@gmail.com](mailto:manuolmos88@gmail.com)
-* Linkedin: [www.linkedin.com/in/manuel-olmos-gil](www.linkedin.com/in/manuel-olmos-gil)
+* Linkedin: [linkedin/manuel-olmos-gil](https://www.linkedin.com/in/manuel-olmos-gil)
 
 ## Experience
 
