@@ -11,8 +11,11 @@ I'm Manuel Olmos Gil, Buenos Aires based dev. My speciality is iOS Development a
 
 ## Experience
 
+### Airtime
+iOS Develop November 2021 - Present
+
 ### Venmo - Paypal
-iOS Developer November 2020 - Present
+iOS Developer November 2020 - November 2021
 
 ### Publishers Clearing House
 iOS Developer July 2016 - November 2020

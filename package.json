@@ -4,10 +4,9 @@
   "description": "Manuel Olmos web page",
   "main": "index.js",
   "dependencies": {
-    "browser-sync": "^2.8.2",
+    "browser-sync": "^2.27.9",
     "stylus": "^0.54.8"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
